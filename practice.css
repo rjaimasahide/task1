@@ -21,7 +21,7 @@ main {
 footer {
   width: 100%;
   height: 50px;
-  background-color: #AAAAAA
+  background-color: #AAAAAA;
 }
 
 .box {
@@ -33,7 +33,7 @@ footer {
 .step-number {
   color: #fff;
   position: absolute;
-  background-color: #FF9A4B
+  background-color: #FF9A4B;
   
 }
 
@@ -72,12 +72,12 @@ p {
 @media screen and (max-width: 768px) {
   main {
     flex-direction: column;
-    margin: 30px 0
+    margin: 40px 0;
   }
   
   .box {
     width: 90%;
-    margin: 20px auto;
+    margin: 10px auto;
   }
   
   
